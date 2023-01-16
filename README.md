@@ -1,16 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seunghun%20Jeong&fontSize=90)
 
-<div align="center">
 
-  
-### 🔥🔥🔥🔥
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seunghun311)](https://solved.ac/seunghun311/)
 
 # ⚒️ Skills ⚒️
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
 ### Tools
